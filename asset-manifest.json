@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vitustockholm.github.io/csb-2us2do/static/css/main.55e0b285.chunk.css",
+    "main.js": "https://vitustockholm.github.io/csb-2us2do/static/js/main.9a5736c8.chunk.js",
+    "main.js.map": "https://vitustockholm.github.io/csb-2us2do/static/js/main.9a5736c8.chunk.js.map",
+    "runtime-main.js": "https://vitustockholm.github.io/csb-2us2do/static/js/runtime-main.cfff0bba.js",
+    "runtime-main.js.map": "https://vitustockholm.github.io/csb-2us2do/static/js/runtime-main.cfff0bba.js.map",
+    "static/js/2.f7ba33d4.chunk.js": "https://vitustockholm.github.io/csb-2us2do/static/js/2.f7ba33d4.chunk.js",
+    "static/js/2.f7ba33d4.chunk.js.map": "https://vitustockholm.github.io/csb-2us2do/static/js/2.f7ba33d4.chunk.js.map",
+    "index.html": "https://vitustockholm.github.io/csb-2us2do/index.html",
+    "static/css/main.55e0b285.chunk.css.map": "https://vitustockholm.github.io/csb-2us2do/static/css/main.55e0b285.chunk.css.map",
+    "static/js/2.f7ba33d4.chunk.js.LICENSE.txt": "https://vitustockholm.github.io/csb-2us2do/static/js/2.f7ba33d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfff0bba.js",
+    "static/js/2.f7ba33d4.chunk.js",
+    "static/css/main.55e0b285.chunk.css",
+    "static/js/main.9a5736c8.chunk.js"
+  ]
+}
